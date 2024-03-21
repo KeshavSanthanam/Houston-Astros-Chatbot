@@ -2,7 +2,7 @@
 A chatbot using "traditional" NLP techniques (n-grams, cosine similarity, etc)
 
 Chatbot Program Flow
-![Chatbot Program Flow]([http://url/to/img.png](https://github.com/KeshavSanthanam/Houston-Astros-Chatbot/blob/main/chatbot_program_flow.png)https://github.com/KeshavSanthanam/Houston-Astros-Chatbot/blob/main/chatbot_program_flow.png)
+![Chatbot Program Flow](https://github.com/KeshavSanthanam/Houston-Astros-Chatbot/blob/main/chatbot_program_flow.png)https://github.com/KeshavSanthanam/Houston-Astros-Chatbot/blob/main/chatbot_program_flow.png)
 
 Non-user-specific Response Example
 ![Non-user-specific Response Example](https://github.com/KeshavSanthanam/Houston-Astros-Chatbot/blob/main/sample_general_responses.png)
